@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fetch-curd/static/css/main.e76beec1.css",
+    "main.js": "/fetch-curd/static/js/main.957a3ae8.js",
+    "index.html": "/fetch-curd/index.html",
+    "main.e76beec1.css.map": "/fetch-curd/static/css/main.e76beec1.css.map",
+    "main.957a3ae8.js.map": "/fetch-curd/static/js/main.957a3ae8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e76beec1.css",
+    "static/js/main.957a3ae8.js"
+  ]
+}
