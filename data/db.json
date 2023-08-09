@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My 3 Post fg",
+      "datetime": "August 09, 2023,11:33:27 AM",
+      "body": "W3 Global Summit Next week"
+    },
+    {
+      "id": 2,
+      "title": "My 4 Post hjk",
+      "datetime": "August 09, 2023,12:29:27 PM",
+      "body": "ETC Ranjith RTC SRS"
+    },
+    {
+      "id": 3,
+      "title": "Hari krishnan",
+      "datetime": "August 09, 2023,7:12:40 PM",
+      "body": "hara hara maha deva"
+    },
+    {
+      "id": 4,
+      "title": "manokaran",
+      "datetime": "August 09, 2023,7:10:51 PM",
+      "body": "gffbfbg"
+    }
+  ]
+}
